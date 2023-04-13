@@ -13,21 +13,38 @@ body{
     }
     li{
         list-style-type: none;
-        margin-left: 1%;
+        margin-left: -3.5%;
         
     }
 
     .imgRedonda{
-        border-radius: 50%;
+        border-radius: 10%;
+  
     }
 
     .titulo{
         font-size: 5rem;
          
     }
-    .leo{
+    .nombrePerfil{
         color: white;
+        font-size: 5rem;
+        border-style: solid;
     }
-    .diego{
+    .apellido{
         color: dodgerblue;
+        font-size: 5rem;
+ 
+    }
+
+    #sobre{
+        background-color: aquamarine;
+    }
+
+    #segunda{
+        background-color: brown;
+    }
+
+    .logoAP{
+        filter: invert();
     }
