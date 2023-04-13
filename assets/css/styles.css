@@ -1,0 +1,33 @@
+/* etiquera HTML va directamente sin nombre*/
+/*CLASES VA CON "." ADELANTE*/
+/* ID VA CON "#" ADELANTE*/
+
+body{
+    background-color: slategray;
+    color: black
+   }
+    #redes{
+        text-align: center;
+        margin: auto;
+    
+    }
+    li{
+        list-style-type: none;
+        margin-left: 1%;
+        
+    }
+
+    .imgRedonda{
+        border-radius: 50%;
+    }
+
+    .titulo{
+        font-size: 5rem;
+         
+    }
+    .leo{
+        color: white;
+    }
+    .diego{
+        color: dodgerblue;
+    }
